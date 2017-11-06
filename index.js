@@ -1,1 +1,1 @@
-console.log("hi");
+module.exports = "silent-updater";
