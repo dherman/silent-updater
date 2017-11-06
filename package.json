@@ -1,6 +1,6 @@
 {
   "name": "@dherman/silent-updater",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a bogus package that gets updated to test package manager semantics",
   "main": "index.js",
   "scripts": {
