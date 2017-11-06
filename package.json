@@ -1,0 +1,19 @@
+{
+  "name": "@dherman/silent-updater",
+  "version": "1.0.0",
+  "description": "a bogus package that gets updated to test package manager semantics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherman/silent-updater.git"
+  },
+  "author": "Dave Herman <david.herman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherman/silent-updater/issues"
+  },
+  "homepage": "https://github.com/dherman/silent-updater#readme"
+}
